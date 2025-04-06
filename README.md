@@ -18,7 +18,7 @@ This project is a responsive front-end clone of the official Amazon landing page
 
 ## 📸 Screenshots
 
-> ![Amazon Clone Preview](https://github.com/yashasraj2324/amzon-front-end-landing-page-clone/blob/main/Screenshot%202025-04-06%20123848.png )
+> ![Amazon Clone Preview](https://github.com/yashasraj2324/amzon-front-end-landing-page-clone/blob/main/Screenshot%202025-04-06%20123823.png)
 > ![Amazon Clone Preview](https://github.com/yashasraj2324/amzon-front-end-landing-page-clone/blob/main/Screenshot%202025-04-06%20123837.png)
 > ![Amazon Clone Preview](https://github.com/yashasraj2324/amzon-front-end-landing-page-clone/blob/main/Screenshot%202025-04-06%20123848.png)
 > *(Replace with your actual screenshot)*
